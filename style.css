@@ -36,7 +36,7 @@ h1 {
     font-size: 70px;
 }
 
-h2:after {
-    background-color: #00208b;
+.personalInfo::before {
+    color: #00208b;
 
 }
