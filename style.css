@@ -1,8 +1,16 @@
 body {
-    width: 1170px;
+
     font-family: "Roboto Light", serif;
     color: #1c1c1c;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 
+}
+
+.core {
+    width: 1170px;
+    margin: 0 auto;
 }
 
 a {
@@ -26,4 +34,9 @@ h1 {
     align-content: center;
     font-family: "Roboto Thin", serif;
     font-size: 70px;
+}
+
+h2:after {
+    background-color: #00008b;
+
 }
