@@ -1,0 +1,29 @@
+body {
+    width: 1170px;
+    font-family: "Roboto Light", serif;
+    color: #1c1c1c;
+
+}
+
+a {
+    text-decoration: none;
+    color: #1c1c1c;
+}
+
+.menu {
+    display: block;
+    align-content: center;
+    font-size: 14px;
+    text-decoration: none;
+}
+li {
+    display: inline-block;
+    list-style: none;
+    padding-left: 100px;
+}
+h1 {
+    display: block;
+    align-content: center;
+    font-family: "Roboto Thin", serif;
+    font-size: 70px;
+}
